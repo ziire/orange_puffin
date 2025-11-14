@@ -1,4 +1,6 @@
- # hello!!!
+## Exercise to merge CONFLICTS
+
+# hello!!!
 # this is a fork test
 # testing
 #first small script
