@@ -43,3 +43,9 @@ penguins %>%
 ## is this in the branch??
 ##try 222
 #Graham was here 
+
+
+#install.packages("renv")
+renv::init()
+renv::status()
+renv::snapshot()
