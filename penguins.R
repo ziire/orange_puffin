@@ -1,3 +1,5 @@
+##NOW IS THE TIME FOR EXERCISE
+
 ## Exercise to merge CONFLICTS
 
 # hello!!!
